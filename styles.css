@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+body{
+    background: darkslategray;
+}
+.encabezado header{
+    font-family: 'Anton', sans-serif;
+    text-align: left;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.Lorem p{
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;   
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+a{
+    text-align: center;
+	display: inline-block;
+	background: #fff;
+	padding: 10px 30px;
+	color: #111;
+	font-weight: 500;
+	text-decoration: none;
+}
+.imagen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 300px;
+}
+.imagen img{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 250px;
+}
+p{
+    font-family: 'Cormorant Garamond', serif;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
